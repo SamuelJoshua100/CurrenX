@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(240, 213, 163);
+}
+.currency {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  background-color: white;
+  border-radius: 20px;
+  height: 100vh;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+h1 {
+  color: rgb(68, 10, 163);
+}
+.input {
+  background-color: rgb(232, 231, 231);
+  font-size: 15px;
+}
